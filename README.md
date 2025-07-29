@@ -93,7 +93,3 @@ We welcome contributions in these areas:
 1. Fork the repository
 2. Create feature branch
 3. Submit PR with clear documentation
-
-## Contact
-
-pro.priyanka.mandal@gmail.com
